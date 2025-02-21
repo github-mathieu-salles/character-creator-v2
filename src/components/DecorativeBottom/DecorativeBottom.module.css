@@ -1,0 +1,9 @@
+.decorativeBottom {
+  /* Fill the available container height */
+  height: 40%;
+  width: 100%;
+  background-color: hsl(195deg, 20%, 86%);
+  position: fixed;
+  bottom: 0;
+  left: 0;
+}

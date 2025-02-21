@@ -1,2 +1,4 @@
 .buttonRow {
+  overflow-y: auto;
+  text-wrap: nowrap;
 }
